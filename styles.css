@@ -165,4 +165,7 @@ p{
     position: static;
     transform: rotate(0);
   }
+    .row{
+    text-align: center;
+  }
 }
